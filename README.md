@@ -2,6 +2,7 @@
 
 ## Overview
 This project explores salary trends in the technology industry using Python. The analysis focuses on how experience level, remote work eligibility, and location influence salaries through data cleaning, exploratory data analysis (EDA), and data visualisation.
+[View slides](<Slides Deck Analysis>)
 
 ## Business Question
 **How do salaries in the technology industry vary across key job factors such as experience level, remote work eligibility, and location?**
